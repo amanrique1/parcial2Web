@@ -1,0 +1,11 @@
+{
+    "name":"Name",
+    "directed":"Directed by",
+    "country":"Country",
+    "budget":"Budget",
+    "release":"Release",
+    "views":"Views",
+    "singular":"Million",
+    "plural":"Millions"
+
+}

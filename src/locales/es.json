@@ -1,0 +1,12 @@
+{
+    "name":"Nombre",
+    "directed":"Dirigida por",
+    "country":"Pais",
+    "budget":"Presupuest",
+    "release":"Realizacion",
+    "views":"Vistas",
+    "singular":"Millon",
+    "plural":"Millones"
+
+
+}
